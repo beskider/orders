@@ -14,9 +14,7 @@ const OrderSchema = new mongoose.Schema(
             type: Boolean
         } 
     },
-    {
-        timestamps: true
-    } 
+    { timestamps: true } 
 ) 
 
 OrderSchema.method("toJSON", function() {
