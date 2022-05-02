@@ -19,7 +19,7 @@ The fullstack application managing orders.
 
 # Zamówienia
 
-Aplikacja umożliwiająca zarządzenianie zamówieniamie.
+Aplikacja umożliwiająca zarządzenianie zamówieniami.
 
 ## Użyte technologie
 
